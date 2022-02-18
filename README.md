@@ -11,3 +11,14 @@
 ### Other Sources
 
 - [Link for React Template](https://www.npmjs.com/package/cra-template-react-portfolio)
+
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: __2 hours___
+
+Start time: _4:30pm____
+
+Finish time: _____
+
+Actual time needed to complete: _____
