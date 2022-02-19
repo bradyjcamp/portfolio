@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello!",
+      "description": " I am Brady Camp. I am a Software Developer proficient in React and Full-Stack JavaScript. Before pursuing software development I was a branch manager of a rental car company in Seattle. I decided to enter into software development because I have a strong desire to create web applications and solve dynamic problems utilizing programming. My ideal environment to showcase my programming and debugging skills would include working individually or in a team based setting. I have 4 years of previous experience in managing a team and being faced with problems and tasks to ensure customers receive quality products.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,22 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Animal Racer",
+        "startDate": "2022",
+        "description": "This was a group project that was completed with vanilla HTML, CSS, and Javascript. This application takes in user input and also displays a responive race track with different character to chose from. As the user you navigate through trivial questions and race against our JavaScript bot!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-racer/p1.png",
+          "images/portfolio/animal-racer/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/The-Go-Gitters/trivia-race",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +35,81 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "This is a mock website for Pat's Salmon Cookies. The website offers contact and location info for all of Pat's stores as well as a little bit about Pat and some of the merch being sold. It also includes a web page with Pat's sales data and offers the user the ability to generate their own store.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon-cookies/p1.png",
+          "images/portfolio/salmon-cookies/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/bradyjcamp/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "This project is about creating a web page to showcase different products and have the user select the product they like from an assortemnt of 3 images. This would go for 25 rounds and display the results for the amount of selections and views each product received. This was to find out which product should be featured in the BusMall catalog.",
+        "images": [
+          "images/portfolio/busmall/p1.png",
+          "images/portfolio/busmall/p2.png"
+        ],
+        "url": "https://github.com/bradyjcamp/BusMall",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Code Fellows Student",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
+          "Node.js",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML 5",
+          "CSS 3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows Student",
+        "title": "Front-End Developer",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "React",
+          "Node.js",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "HTML 5",
+          "CSS 3"
         ]
       }
     ]
