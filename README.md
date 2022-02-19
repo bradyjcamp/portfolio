@@ -12,13 +12,14 @@
 
 - [Link for React Template](https://www.npmjs.com/package/cra-template-react-portfolio)
 
+### Time Estimation for Completion
 
-Number and name of feature: ________________________________
+- Number and name of feature: _Deploy and extend your portfolio_______________________________
 
-Estimate of time needed to complete: __2 hours___
+- Estimate of time needed to complete: __2 hours___
 
-Start time: _4:30pm____
+- Start time: _4:30pm____
 
-Finish time: _____
+- Finish time: _7:30pm____
 
-Actual time needed to complete: _____
+- Actual time needed to complete: __3 hours___
