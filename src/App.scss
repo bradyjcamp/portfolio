@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #bdefdc;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -70,14 +70,14 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #7e6161;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #7e6161;
 	color: white;
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#7e6161, 0.70);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -95,7 +95,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #343239;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: rgb(148, 214, 245);
 	overflow: hidden;
 }
 
@@ -139,7 +139,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #f0f0f0;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -178,7 +178,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: #7e6161;
 	text-align: center;
 }
 
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #bddbef;
 }
 
 .experience-icon {
@@ -245,7 +245,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #7e6161 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +256,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #dbb3b3 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #efcdbd;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background-image: url(brady-banner.png);
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
